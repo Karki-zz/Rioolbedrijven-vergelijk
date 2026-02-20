@@ -176,9 +176,9 @@ body {
   color: #1B4F8A;
 }
 
-/* Last row (totaalscore) in company score tables */
+/* Totaalscore row — only in the comparison table, not in per-company score tables */
 .table-wrapper tfoot td,
-.table-wrapper tbody tr:last-child td {
+.comparison-table tbody tr:last-child td {
   font-weight: 700;
   border-top: 2px solid #1B4F8A;
   background-color: #F0F4F8;

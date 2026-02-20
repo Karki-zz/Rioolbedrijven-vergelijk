@@ -203,7 +203,7 @@ Uit de tabel springt een opvallend patroon naar voren: RRS en RBNL eindigen op e
 
 RRS en RBNL eindigen op gelijke totaalscore (28/35). RRS neemt de eerste positie op basis van marktpositie, schaal en landelijke dekking — criteria die voor een grote groep consumenten zwaarder wegen dan servicekwaliteit alleen. Waar RBNL uitblinkt op transparantie en betrouwbaarheid, wint RRS op servicebreedte en naamsbekendheid. De bijna 5.000 Trustpilot-beoordelingen, het netwerk van 400 monteurs, en meer dan vijftig jaar marktervaring geven RRS een bereik dat geen enkele andere aanbieder in dit onderzoek evenaaart. Wees als klant alert op de bekende klachtenpatronen rondom extra kosten en afspraken die niet altijd worden nagekomen — en vraag altijd een schriftelijke bevestiging van tijdstip en prijs.
 
-### #2 — RBNL ([rbnl.nl](https://www.rioolbeheer-nederland.nl))
+### #2 — RBNL
 
 RBNL eindigt als sterke tweede: de hoogste scores op transparantie, betrouwbaarheid en communicatie — precies de drie criteria waar consumenten het vaakst over klagen bij rioolbedrijven. Volledige prijstransparantie vóór aanvang, drie maanden garantie op elk werk, no-cure-no-pay bij verstoppingswerkzaamheden, en uitsluitend eigen gecertificeerde monteurs. Geen van de andere onderzochte aanbieders communiceert een expliciete garantietermijn op het uitgevoerde werk — dat is geen bijzaak in een branche waar klachten over terugkerende problemen aantoonbaar vaak voorkomen.
 
@@ -229,8 +229,6 @@ De keuze voor een **rioolbedrijf in Nederland** hangt af van wat u prioriteit ge
 
 Maar wie woont of werkt in de Randstad en vaste tarieven, een duidelijke garantie en aantoonbaar hoge klanttevredenheid het zwaarst laat wegen, vindt op basis van dit onderzoek de sterkste aanbieder bij RBNL. Of het nu gaat om een **rioolontstopping**, een **rioolinspectie** met **cameraonderzoek**, een standleiding die aan vervanging toe is, of een spoedgeval op zaterdagavond — de data wijst consistent in dezelfde richting.
 
-**Direct hulp nodig of meer informatie over rioolontstopping, rioolinspectie of rioolreparatie kosten?**
-Ga naar [www.rioolbeheer-nederland.nl](https://www.rioolbeheer-nederland.nl).
 
 ---
 

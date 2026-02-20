@@ -7,6 +7,19 @@ interface Section {
   content: string;
 }
 
+// Icons to prepend to criteria labels inside table cells.
+// Matches both plain <td>Label</td> and <td><strong>Label</strong></td>.
+const CRITERIA_ICONS: Array<[RegExp, string]> = [
+  [/(<td(?:[^>]*)>)(<strong>)?Klanttevredenheid(<\/strong>)?(<\/td>)/g,       "$1$2⭐ Klanttevredenheid$3$4"],
+  [/(<td(?:[^>]*)>)(<strong>)?Responstijd &amp; beschikbaarheid(<\/strong>)?(<\/td>)/g, "$1$2📞 Responstijd &amp; beschikbaarheid$3$4"],
+  [/(<td(?:[^>]*)>)(<strong>)?Transparantie(<\/strong>)?(<\/td>)/g,           "$1$2💡 Transparantie$3$4"],
+  [/(<td(?:[^>]*)>)(<strong>)?Betrouwbaarheid(<\/strong>)?(<\/td>)/g,         "$1$2🛡️ Betrouwbaarheid$3$4"],
+  [/(<td(?:[^>]*)>)(<strong>)?Servicebreedte(<\/strong>)?(<\/td>)/g,          "$1$2🔧 Servicebreedte$3$4"],
+  [/(<td(?:[^>]*)>)(<strong>)?Communicatie(<\/strong>)?(<\/td>)/g,            "$1$2💬 Communicatie$3$4"],
+  [/(<td(?:[^>]*)>)(<strong>)?Naamsbekendheid &amp; schaal(<\/strong>)?(<\/td>)/g, "$1$2🏆 Naamsbekendheid &amp; schaal$3$4"],
+  [/(<td(?:[^>]*)>)(<strong>)?Totaalscore(<\/strong>)?(<\/td>)/g,             "$1$2🎯 Totaalscore$3$4"],
+];
+
 async function mdToHtml(md: string): Promise<string> {
   const result = await remark()
     .use(remarkGfm)
@@ -18,6 +31,11 @@ async function mdToHtml(md: string): Promise<string> {
   html = html
     .replace(/<table>/g, '<div class="table-wrapper"><table>')
     .replace(/<\/table>/g, "</table></div>");
+
+  // Inject icons into criteria cells
+  for (const [pattern, replacement] of CRITERIA_ICONS) {
+    html = html.replace(pattern, replacement);
+  }
 
   return html;
 }
