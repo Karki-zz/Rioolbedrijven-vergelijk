@@ -184,7 +184,24 @@ body {
   background-color: #F0F4F8;
 }
 
-/* Comparison table: center data columns */
+/* ─── Comparison section breakout ───────────────────────────────── */
+/* Pull the comparison table outside the article column's padding    */
+/* so it can use the full 680px container width on desktop.          */
+
+.comparison-breakout {
+  margin-left: -1rem;   /* cancel px-4 */
+  margin-right: -1rem;
+}
+
+@media (min-width: 640px) {
+  .comparison-breakout {
+    margin-left: -1.5rem;  /* cancel sm:px-6 */
+    margin-right: -1.5rem;
+  }
+}
+
+/* ─── Comparison table layout ───────────────────────────────────── */
+
 .comparison-table th:not(:first-child),
 .comparison-table td:not(:first-child) {
   text-align: center;
@@ -198,11 +215,21 @@ body {
   background-color: inherit;
   border-right: 1px solid #E5E7EB;
   font-weight: 600;
-  white-space: nowrap;
+  /* Allow criteria labels to wrap so the column doesn't force overflow */
+  white-space: normal;
+  min-width: 9rem;
+  max-width: 13rem;
 }
 
 .comparison-table thead th:first-child {
   background-color: #F0F4F8;
+}
+
+/* Compact padding for comparison table cells */
+.comparison-table td,
+.comparison-table th {
+  padding: 0.5rem 0.75rem;
+  font-size: 0.875rem;
 }
 
 /* Scrollbar */

@@ -11,12 +11,12 @@ interface Section {
 // Matches both plain <td>Label</td> and <td><strong>Label</strong></td>.
 const CRITERIA_ICONS: Array<[RegExp, string]> = [
   [/(<td(?:[^>]*)>)(<strong>)?Klanttevredenheid(<\/strong>)?(<\/td>)/g,       "$1$2⭐ Klanttevredenheid$3$4"],
-  [/(<td(?:[^>]*)>)(<strong>)?Responstijd &amp; beschikbaarheid(<\/strong>)?(<\/td>)/g, "$1$2📞 Responstijd &amp; beschikbaarheid$3$4"],
+  [/(<td(?:[^>]*)>)(<strong>)?Responstijd (?:&amp;|&#x26;) beschikbaarheid(<\/strong>)?(<\/td>)/g, "$1$2📞 Responstijd &#x26; beschikbaarheid$3$4"],
   [/(<td(?:[^>]*)>)(<strong>)?Transparantie(<\/strong>)?(<\/td>)/g,           "$1$2💡 Transparantie$3$4"],
   [/(<td(?:[^>]*)>)(<strong>)?Betrouwbaarheid(<\/strong>)?(<\/td>)/g,         "$1$2🛡️ Betrouwbaarheid$3$4"],
   [/(<td(?:[^>]*)>)(<strong>)?Servicebreedte(<\/strong>)?(<\/td>)/g,          "$1$2🔧 Servicebreedte$3$4"],
   [/(<td(?:[^>]*)>)(<strong>)?Communicatie(<\/strong>)?(<\/td>)/g,            "$1$2💬 Communicatie$3$4"],
-  [/(<td(?:[^>]*)>)(<strong>)?Naamsbekendheid &amp; schaal(<\/strong>)?(<\/td>)/g, "$1$2🏆 Naamsbekendheid &amp; schaal$3$4"],
+  [/(<td(?:[^>]*)>)(<strong>)?Naamsbekendheid (?:&amp;|&#x26;) schaal(<\/strong>)?(<\/td>)/g, "$1$2🏆 Naamsbekendheid &#x26; schaal$3$4"],
   [/(<td(?:[^>]*)>)(<strong>)?Totaalscore(<\/strong>)?(<\/td>)/g,             "$1$2🎯 Totaalscore$3$4"],
 ];
 
@@ -131,14 +131,8 @@ export default async function Article({ content }: { content: string }) {
 
         if (section.type === "comparison") {
           return (
-            <div key={idx} className="article-prose">
+            <div key={idx} className="article-prose comparison-breakout">
               <div dangerouslySetInnerHTML={{ __html: section.html }} />
-              <p
-                className="text-xs text-center mt-2"
-                style={{ color: "#6B7280" }}
-              >
-                Scroll horizontaal voor alle scores
-              </p>
             </div>
           );
         }
