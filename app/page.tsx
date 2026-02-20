@@ -39,37 +39,49 @@ export default function HomePage() {
         >
           <a
             href="/"
-            className="flex items-center gap-2 font-bold text-lg tracking-tight"
+            className="flex items-center gap-2 tracking-tight"
             style={{
               fontFamily: "var(--font-playfair, Playfair Display, serif)",
               color: "#1B4F8A",
+              fontSize: "1.15rem",
+              lineHeight: 1,
             }}
           >
-            {/* Pipe / droplet logo */}
+            {/* Badge logo */}
             <svg
-              width="24"
-              height="24"
-              viewBox="0 0 24 24"
+              width="36"
+              height="36"
+              viewBox="0 0 36 36"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
               aria-hidden="true"
             >
-              {/* Vertical pipe */}
-              <rect x="9" y="2" width="4" height="10" rx="2" fill="#1B4F8A" />
-              {/* Elbow connector */}
+              <defs>
+                <linearGradient id="rpLogoGrad" x1="0" y1="0" x2="36" y2="36" gradientUnits="userSpaceOnUse">
+                  <stop offset="0%" stopColor="#2563EB" />
+                  <stop offset="100%" stopColor="#1A3A6B" />
+                </linearGradient>
+              </defs>
+              {/* Rounded badge background */}
+              <rect width="36" height="36" rx="9" fill="url(#rpLogoGrad)" />
+              {/* L-shaped pipe as single clean path */}
               <path
-                d="M11 12 C11 15 14 15 14 18"
-                stroke="#1B4F8A"
-                strokeWidth="2.5"
+                d="M 14.5 5 L 14.5 20 Q 14.5 27 21.5 27 L 31 27"
+                stroke="white"
+                strokeWidth="5"
                 strokeLinecap="round"
+                strokeLinejoin="round"
                 fill="none"
               />
-              {/* Horizontal pipe outlet */}
-              <rect x="14" y="16.5" width="6" height="3" rx="1.5" fill="#1B4F8A" />
-              {/* Droplet falling from outlet */}
-              <ellipse cx="21.5" cy="21.5" rx="1.5" ry="2" fill="#1B4F8A" opacity="0.6" />
+              {/* Water drops */}
+              <circle cx="31" cy="32.5" r="1.8" fill="white" opacity="0.85" />
+              <circle cx="25.5" cy="33" r="1.3" fill="white" opacity="0.55" />
             </svg>
-            RioolPlatform.nl
+            <span>
+              <span style={{ fontWeight: 400 }}>riool</span>
+              <span style={{ fontWeight: 700 }}>platform</span>
+              <span style={{ opacity: 0.55, fontWeight: 400 }}>.nl</span>
+            </span>
           </a>
           <span className="text-xs hidden sm:block" style={{ color: "#6B7280" }}>
             Onafhankelijk onderzoek · Februari 2026
