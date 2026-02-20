@@ -39,7 +39,7 @@ export default function HomePage() {
         >
           <a
             href="/"
-            className="flex items-center gap-2 tracking-tight"
+            className="flex items-center gap-2.5 tracking-tight"
             style={{
               fontFamily: "var(--font-playfair, Playfair Display, serif)",
               color: "#1B4F8A",
@@ -47,40 +47,37 @@ export default function HomePage() {
               lineHeight: 1,
             }}
           >
-            {/* Badge logo */}
+            {/* Water drop icon */}
             <svg
-              width="36"
-              height="36"
-              viewBox="0 0 36 36"
+              width="22"
+              height="26"
+              viewBox="0 0 22 26"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
               aria-hidden="true"
             >
-              <defs>
-                <linearGradient id="rpLogoGrad" x1="0" y1="0" x2="36" y2="36" gradientUnits="userSpaceOnUse">
-                  <stop offset="0%" stopColor="#2563EB" />
-                  <stop offset="100%" stopColor="#1A3A6B" />
-                </linearGradient>
-              </defs>
-              {/* Rounded badge background */}
-              <rect width="36" height="36" rx="9" fill="url(#rpLogoGrad)" />
-              {/* L-shaped pipe as single clean path */}
+              {/* Pipe stub at top */}
+              <rect x="8.5" y="0" width="5" height="6" rx="2.5" fill="#1B4F8A" />
+              {/* Drop body */}
               <path
-                d="M 14.5 5 L 14.5 20 Q 14.5 27 21.5 27 L 31 27"
-                stroke="white"
-                strokeWidth="5"
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                fill="none"
+                d="M11 5 C8.5 9 2 15.5 2 19 C2 22.9 6.1 26 11 26 C15.9 26 20 22.9 20 19 C20 15.5 13.5 9 11 5Z"
+                fill="#1B4F8A"
               />
-              {/* Water drops */}
-              <circle cx="31" cy="32.5" r="1.8" fill="white" opacity="0.85" />
-              <circle cx="25.5" cy="33" r="1.3" fill="white" opacity="0.55" />
+              {/* Inner highlight — suggests gloss/depth */}
+              <ellipse
+                cx="7.5"
+                cy="17"
+                rx="1.3"
+                ry="2.2"
+                fill="white"
+                opacity="0.28"
+                transform="rotate(-18 7.5 17)"
+              />
             </svg>
             <span>
               <span style={{ fontWeight: 400 }}>riool</span>
               <span style={{ fontWeight: 700 }}>platform</span>
-              <span style={{ opacity: 0.55, fontWeight: 400 }}>.nl</span>
+              <span style={{ opacity: 0.5, fontWeight: 400 }}>.nl</span>
             </span>
           </a>
           <span className="text-xs hidden sm:block" style={{ color: "#6B7280" }}>
