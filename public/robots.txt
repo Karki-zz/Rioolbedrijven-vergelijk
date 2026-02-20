@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rioolvergelijk.nl/sitemap.xml
+Sitemap: https://rioolplatform.nl/sitemap.xml

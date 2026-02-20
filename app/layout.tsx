@@ -16,12 +16,12 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: {
-    default: "De beste rioolbedrijven in Nederland vergeleken (2026) | RioolVergelijk",
-    template: "%s | RioolVergelijk",
+    default: "De beste rioolbedrijven in Nederland vergeleken (2026) | RioolPlatform",
+    template: "%s | RioolPlatform",
   },
   description:
     "Welk rioolbedrijf in Nederland is de beste keuze? Wij vergeleken 5 aanbieders op klanttevredenheid, prijs, betrouwbaarheid en beschikbaarheid. Onafhankelijk onderzoek 2026.",
-  metadataBase: new URL("https://rioolvergelijk.nl"),
+  metadataBase: new URL("https://rioolplatform.nl"),
   alternates: {
     canonical: "/",
   },
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
       "Welk rioolbedrijf kies je? 5 aanbieders vergeleken op 7 criteria. Onafhankelijk onderzoek.",
     type: "article",
     locale: "nl_NL",
-    siteName: "RioolVergelijk",
+    siteName: "RioolPlatform",
   },
   twitter: {
     card: "summary_large_image",
@@ -53,13 +53,13 @@ const jsonLd = {
   dateModified: "2026-02-20",
   author: {
     "@type": "Organization",
-    name: "RioolVergelijk",
-    url: "https://rioolvergelijk.nl",
+    name: "RioolPlatform",
+    url: "https://rioolplatform.nl",
   },
   publisher: {
     "@type": "Organization",
-    name: "RioolVergelijk",
-    url: "https://rioolvergelijk.nl",
+    name: "RioolPlatform",
+    url: "https://rioolplatform.nl",
   },
   description:
     "Welk rioolbedrijf in Nederland is de beste keuze? Wij vergeleken 5 aanbieders op klanttevredenheid, prijs, betrouwbaarheid en beschikbaarheid.",
