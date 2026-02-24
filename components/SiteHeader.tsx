@@ -33,6 +33,13 @@ export default function SiteHeader() {
             Vergelijk
           </Link>
           <Link
+            href="/faq"
+            className="hover:text-[#1B4F8A] transition-colors"
+            style={{ color: "#6B7280" }}
+          >
+            FAQ
+          </Link>
+          <Link
             href="/over"
             className="hover:text-[#1B4F8A] transition-colors"
             style={{ color: "#6B7280" }}

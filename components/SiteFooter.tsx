@@ -15,6 +15,9 @@ export default function SiteFooter() {
           <Link href="/" style={{ color: "#1B4F8A" }}>
             Vergelijk
           </Link>
+          <Link href="/faq" style={{ color: "#1B4F8A" }}>
+            FAQ
+          </Link>
           <Link href="/over" style={{ color: "#1B4F8A" }}>
             Over dit onderzoek
           </Link>
