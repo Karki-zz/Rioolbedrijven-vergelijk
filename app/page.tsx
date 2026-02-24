@@ -2,9 +2,10 @@ import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 import type { Metadata } from "next";
-import Link from "next/link";
 import Article from "@/components/Article";
 import ProgressBar from "@/components/ProgressBar";
+import SiteHeader from "@/components/SiteHeader";
+import SiteFooter from "@/components/SiteFooter";
 
 export const metadata: Metadata = {
   title: "De beste rioolbedrijven in Nederland vergeleken (2026) | RioolPlatform",
@@ -29,36 +30,7 @@ export default function HomePage() {
   return (
     <>
       <ProgressBar />
-
-      {/* Site header */}
-      <header
-        className="sticky top-0 z-40 border-b border-[#E5E7EB]"
-        style={{ backgroundColor: "#FAFAF8" }}
-      >
-        <div
-          className="max-w-[680px] mx-auto px-4 sm:px-6 h-14 flex items-center justify-between"
-        >
-          <a
-            href="/"
-            className="flex items-center gap-2.5 tracking-tight"
-            style={{
-              fontFamily: "var(--font-playfair, Playfair Display, serif)",
-              color: "#1B4F8A",
-              fontSize: "1.15rem",
-              lineHeight: 1,
-            }}
-          >
-            <span>
-              <span style={{ fontWeight: 400 }}>riool</span>
-              <span style={{ fontWeight: 700 }}>platform</span>
-              <span style={{ opacity: 0.5, fontWeight: 400 }}>.nl</span>
-            </span>
-          </a>
-          <span className="text-xs hidden sm:block" style={{ color: "#6B7280" }}>
-            Onafhankelijk onderzoek · Februari 2026
-          </span>
-        </div>
-      </header>
+      <SiteHeader />
 
       <main className="max-w-[680px] mx-auto px-4 sm:px-6 pb-24">
         {/* Article hero / metadata block */}
@@ -82,33 +54,19 @@ export default function HomePage() {
               color: "#1A1A1A",
             }}
           >
-            De beste rioolbedrijven in Nederland vergeleken: wie scoort écht?
+            De beste rioolbedrijven in Nederland vergeleken: wie scoort écht? (2026)
           </h1>
 
           <p className="text-lg leading-relaxed" style={{ color: "#6B7280" }}>
             Vijf aanbieders getest op klanttevredenheid, prijs, reactietijd en
             garantie, zodat jij bij een verstopping meteen weet wie je moet bellen.
           </p>
-
-          {/* V3: sticky sidebar / CTA block goes here — HTML structure is ready */}
         </div>
 
         {/* Article body */}
         <Article content={content} />
 
-        {/* Footer disclaimer */}
-        <footer className="mt-16 pt-8 border-t border-[#E5E7EB]">
-          <p className="text-xs leading-relaxed" style={{ color: "#9CA3AF" }}>
-            <strong style={{ color: "#6B7280" }}>Disclaimer:</strong> RioolPlatform.nl
-            is een onafhankelijk redactioneel platform. De informatie op deze pagina is
-            opgesteld op basis van publiek beschikbare reviews, gepubliceerde tarieven en
-            website-analyse. Bedrijfsscores kunnen zijn gewijzigd. Externe links openen
-            in een nieuw tabblad.{" "}
-            <Link href="/over" style={{ color: "#1B4F8A" }}>
-              Meer over ons onderzoek →
-            </Link>
-          </p>
-        </footer>
+        <SiteFooter />
       </main>
     </>
   );

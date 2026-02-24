@@ -6,6 +6,9 @@ import remarkGfm from "remark-gfm";
 import remarkHtml from "remark-html";
 import type { Metadata } from "next";
 import Link from "next/link";
+import SiteHeader from "@/components/SiteHeader";
+import SiteFooter from "@/components/SiteFooter";
+import ContactForm from "@/components/ContactForm";
 
 export const metadata: Metadata = {
   title: "Over dit onderzoek | RioolPlatform",
@@ -40,32 +43,7 @@ export default async function OverPage() {
 
   return (
     <>
-      <header
-        className="sticky top-0 z-40 border-b border-[#E5E7EB]"
-        style={{ backgroundColor: "#FAFAF8" }}
-      >
-        <div className="max-w-[680px] mx-auto px-4 sm:px-6 h-14 flex items-center justify-between">
-          <Link
-            href="/"
-            className="flex items-center gap-2.5 tracking-tight"
-            style={{
-              fontFamily: "var(--font-playfair, Playfair Display, serif)",
-              color: "#1B4F8A",
-              fontSize: "1.15rem",
-              lineHeight: 1,
-            }}
-          >
-            <span>
-              <span style={{ fontWeight: 400 }}>riool</span>
-              <span style={{ fontWeight: 700 }}>platform</span>
-              <span style={{ opacity: 0.5, fontWeight: 400 }}>.nl</span>
-            </span>
-          </Link>
-          <span className="text-xs hidden sm:block" style={{ color: "#6B7280" }}>
-            Onafhankelijk onderzoek · Februari 2026
-          </span>
-        </div>
-      </header>
+      <SiteHeader />
 
       <main className="max-w-[680px] mx-auto px-4 sm:px-6 pb-24">
         <div className="pt-10 pb-6">
@@ -79,19 +57,25 @@ export default async function OverPage() {
         </div>
 
         <div
-          className="article-prose"
+          className="article-prose no-h2-borders"
           dangerouslySetInnerHTML={{ __html: html }}
         />
 
-        <footer className="mt-16 pt-8 border-t border-[#E5E7EB]">
-          <p className="text-xs leading-relaxed" style={{ color: "#9CA3AF" }}>
-            <strong style={{ color: "#6B7280" }}>Disclaimer:</strong>{" "}
-            RioolPlatform.nl is een onafhankelijk redactioneel platform. De
-            informatie op deze pagina is opgesteld op basis van publiek
-            beschikbare reviews, gepubliceerde tarieven en website-analyse.
-            Bedrijfsscores kunnen zijn gewijzigd.
-          </p>
-        </footer>
+        {/* Contact form */}
+        <section className="mt-10 pt-8 border-t border-[#E5E7EB]">
+          <h2
+            className="text-xl font-bold mb-6"
+            style={{
+              fontFamily: "var(--font-playfair, Playfair Display, serif)",
+              color: "#1A1A1A",
+            }}
+          >
+            Contactformulier
+          </h2>
+          <ContactForm />
+        </section>
+
+        <SiteFooter />
       </main>
     </>
   );

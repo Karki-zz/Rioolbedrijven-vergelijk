@@ -1,7 +1,5 @@
 # Over dit onderzoek
 
-**Gepubliceerd:** februari 2026 | **Laatste update:** februari 2026 | **Volgende geplande update:** mei 2026
-
 Dit vergelijk is tot stand gekomen door onafhankelijke desk research op basis van openbaar beschikbare data. Op deze pagina leggen we uit hoe de vijf bedrijven zijn geselecteerd, welke bronnen zijn geraadpleegd, hoe de scores zijn bepaald, en wat de grenzen van dit onderzoek zijn.
 
 ---
@@ -36,8 +34,6 @@ Per bedrijf zijn de volgende bronnen geraadpleegd:
 - [Trustpilot](https://www.trustpilot.com) — alle beoordelingen van het afgelopen jaar zijn meegewogen, met aandacht voor zowel het gemiddelde als het volume en de aard van negatieve reviews
 - [Trustoo.nl](https://www.trustoo.nl) — Nederlandse vergelijkingssite met geverifieerde klantbeoordelingen
 - [Google Reviews](https://www.google.com) — via Google Business Profiles van de afzonderlijke vestigingen
-- [Opiness.nl](https://www.opiness.nl) — aanvullend platform voor Riool.nl (Barthen Groep)
-- [Klantervaringen.nl](https://www.klantervaringen.nl) en Klantenvertellen.nl — voor aanvullende signalen bij RSN en Rions
 
 **Eigen websites van de aanbieders** — geraadpleegd op tarieven, garantiebeleid, werkwijze, certificeringen en dienstenaanbod. Screenshots zijn gearchiveerd op datum van raadpleging.
 
@@ -51,21 +47,21 @@ Alle bronnen zijn geraadpleegd in **januari–februari 2026**.
 
 ## Scoremethodologie
 
-Elk bedrijf is beoordeeld op zeven criteria. Per criterium wordt een score toegekend van 1 tot 5 sterren. De maximale totaalscore is 35 punten.
+Elk bedrijf is beoordeeld op zeven criteria. Per criterium wordt een score toegekend van 1 tot 5. De maximale totaalscore is 35 punten.
 
 De zeven criteria wegen even zwaar — er is geen weging toegepast. De keuze voor gelijke weging is bewust: welk criterium het zwaarst weegt, verschilt per consument. Wie 24/7 beschikbaarheid het belangrijkste vindt, weegt responstijd zwaarder dan transparantie; wie vaste prijzen zoekt, doet het omgekeerde.
 
-### Wat elke sterrenscore betekent
+### Wat elke score betekent
 
-**⭐ (1)** — Aantoonbaar slecht. Meerdere concrete klachten op dit criterium, geen tegenbewijs.
+**1/5** — Aantoonbaar slecht. Meerdere concrete klachten op dit criterium, geen tegenbewijs.
 
-**⭐⭐ (2)** — Onder gemiddeld. Structurele tekortkomingen die terugkeren in meerdere, onafhankelijke bronnen.
+**2/5** — Onder gemiddeld. Structurele tekortkomingen die terugkeren in meerdere, onafhankelijke bronnen.
 
-**⭐⭐⭐ (3)** — Gemiddeld. Geen uitgesproken kracht of zwakte. Voldoet aan de basislat voor de branche.
+**3/5** — Gemiddeld. Geen uitgesproken kracht of zwakte. Voldoet aan de basislat voor de branche.
 
-**⭐⭐⭐⭐ (4)** — Boven gemiddeld. Aantoonbare sterkte op dit criterium, gedragen door meerdere bronnen, met slechts beperkte tegengestelde signalen.
+**4/5** — Boven gemiddeld. Aantoonbare sterkte op dit criterium, gedragen door meerdere bronnen, met slechts beperkte tegengestelde signalen.
 
-**⭐⭐⭐⭐⭐ (5)** — Uitstekend. Eenduidige, consistente prestatie op dit criterium over meerdere bronnen en een relevante periode.
+**5/5** — Uitstekend. Eenduidige, consistente prestatie op dit criterium over meerdere bronnen en een relevante periode.
 
 ### De zeven criteria uitgelegd
 
@@ -109,6 +105,3 @@ Het artikel bevat een link naar de website van RBNL (Rioolbeheer Nederland) in d
 
 Heeft u feitelijke onjuistheden geconstateerd, of beschikt u over informatie die de scores zou moeten beïnvloeden? Neem contact op via het contactformulier. Correcties worden verwerkt binnen vijf werkdagen en zijn zichtbaar in de versiegeschiedenis onderaan de betrokken pagina.
 
----
-
-*Versie 1.0 — gepubliceerd februari 2026*

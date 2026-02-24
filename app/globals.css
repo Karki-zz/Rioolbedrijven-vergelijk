@@ -245,6 +245,13 @@ body {
   border-radius: 3px;
 }
 
+/* ─── Over page: no h2 underlines ───────────────────────────────── */
+
+.no-h2-borders h2 {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
 /* ─── Verdict Block ──────────────────────────────────────────────── */
 
 .verdict-block {
