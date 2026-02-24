@@ -9,16 +9,7 @@ interface Section {
 
 // Icons to prepend to criteria labels inside table cells.
 // Matches both plain <td>Label</td> and <td><strong>Label</strong></td>.
-const CRITERIA_ICONS: Array<[RegExp, string]> = [
-  [/(<td(?:[^>]*)>)(<strong>)?Klanttevredenheid(<\/strong>)?(<\/td>)/g,       "$1$2⭐ Klanttevredenheid$3$4"],
-  [/(<td(?:[^>]*)>)(<strong>)?Responstijd (?:&amp;|&#x26;) beschikbaarheid(<\/strong>)?(<\/td>)/g, "$1$2📞 Responstijd &#x26; beschikbaarheid$3$4"],
-  [/(<td(?:[^>]*)>)(<strong>)?Transparantie(<\/strong>)?(<\/td>)/g,           "$1$2💡 Transparantie$3$4"],
-  [/(<td(?:[^>]*)>)(<strong>)?Betrouwbaarheid(<\/strong>)?(<\/td>)/g,         "$1$2🛡️ Betrouwbaarheid$3$4"],
-  [/(<td(?:[^>]*)>)(<strong>)?Servicebreedte(<\/strong>)?(<\/td>)/g,          "$1$2🔧 Servicebreedte$3$4"],
-  [/(<td(?:[^>]*)>)(<strong>)?Communicatie(<\/strong>)?(<\/td>)/g,            "$1$2💬 Communicatie$3$4"],
-  [/(<td(?:[^>]*)>)(<strong>)?Naamsbekendheid (?:&amp;|&#x26;) schaal(<\/strong>)?(<\/td>)/g, "$1$2🏆 Naamsbekendheid &#x26; schaal$3$4"],
-  [/(<td(?:[^>]*)>)(<strong>)?Totaalscore(<\/strong>)?(<\/td>)/g,             "$1$2🎯 Totaalscore$3$4"],
-];
+const CRITERIA_ICONS: Array<[RegExp, string]> = [];
 
 async function mdToHtml(md: string): Promise<string> {
   const result = await remark()

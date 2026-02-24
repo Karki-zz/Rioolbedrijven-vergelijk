@@ -1,5 +1,3 @@
-# De beste rioolbedrijven in Nederland vergeleken: wie scoort écht? (2026)
-
 Je riool verstopt zich nooit op een goed moment. Zondagochtend, vlak voordat er gasten komen, midden in een drukke werkweek. Het maakt geen verschil. En dan begint het echte werk: in een paar minuten beslissen welk **rioolbedrijf in Nederland** je belt, zonder te weten wie je kunt vertrouwen, wie eerlijk is over de rekening, en wie ook daadwerkelijk opdaagt.
 
 Dit artikel neemt dat zoekwerk uit handen. Vijf bekende **rioolservice-aanbieders in Nederland** zijn vergeleken op basis van reviewdata van Trustpilot, Google en Trustoo, gepubliceerde tarieven en een grondige analyse van hun websites. Wat opvalt: een grote naam zegt weinig over de servicekwaliteit. En soms gaan schaal en klachten hand in hand.
@@ -43,13 +41,13 @@ RRS bestaat al sinds 1972 en is uitgegroeid tot de grootste particuliergerichte 
 
 | Criterium | Score |
 |---|---|
-| Klanttevredenheid | ★★★★☆ |
-| Responstijd & beschikbaarheid | ★★★★☆ |
-| Transparantie | ★★★★☆ |
-| Betrouwbaarheid | ★★★☆☆ |
-| Servicebreedte | ★★★★★ |
-| Communicatie | ★★★☆☆ |
-| Naamsbekendheid & schaal | ★★★★★ |
+| Klanttevredenheid | 4/5 |
+| Responstijd & beschikbaarheid | 4/5 |
+| Transparantie | 4/5 |
+| Betrouwbaarheid | 3/5 |
+| Servicebreedte | 5/5 |
+| Communicatie | 3/5 |
+| Naamsbekendheid & schaal | 5/5 |
 
 **Wat klanten zeggen:**
 Op [Trustpilot](https://www.trustpilot.com/review/www.rrs.nl) staat RRS op 4,3/5 met bijna 5.000 beoordelingen, verreweg het meeste reviewvolume van alle aanbieders in dit vergelijk. Tevreden klanten hebben het over monteurs die vakkundig, eerlijk en grondig te werk gaan. Een reviewer uit september 2025 omschreef het als *"fantastic — great personality, super honest, thorough, and clearly knows his stuff."*
@@ -73,13 +71,13 @@ Riool.nl is de consumentennaam van de Barthen Groep, die al sinds 1965 actief is
 
 | Criterium | Score |
 |---|---|
-| Klanttevredenheid | ★★★☆☆ |
-| Responstijd & beschikbaarheid | ★★★★☆ |
-| Transparantie | ★★☆☆☆ |
-| Betrouwbaarheid | ★★☆☆☆ |
-| Servicebreedte | ★★★★☆ |
-| Communicatie | ★★☆☆☆ |
-| Naamsbekendheid & schaal | ★★★★☆ |
+| Klanttevredenheid | 3/5 |
+| Responstijd & beschikbaarheid | 4/5 |
+| Transparantie | 2/5 |
+| Betrouwbaarheid | 2/5 |
+| Servicebreedte | 4/5 |
+| Communicatie | 2/5 |
+| Naamsbekendheid & schaal | 4/5 |
 
 **Wat klanten zeggen:**
 Het beeld loopt sterk uiteen. Op Trustpilot staat Riool.nl op 3,6/5, al is het volume daar beperkt (9 beoordelingen). Op Opiness scoort het bedrijf 8,6/10 met 235 beoordelingen. Klanten die tevreden zijn, noemen vriendelijke monteurs bij standaard ontstoppingsklussen.
@@ -101,13 +99,13 @@ RSN werkt als een landelijk netwerk van zelfstandige loodgieters en partners. He
 
 | Criterium | Score |
 |---|---|
-| Klanttevredenheid | ★★★☆☆ |
-| Responstijd & beschikbaarheid | ★★★★☆ |
-| Transparantie | ★★★☆☆ |
-| Betrouwbaarheid | ★★★☆☆ |
-| Servicebreedte | ★★★☆☆ |
-| Communicatie | ★★★☆☆ |
-| Naamsbekendheid & schaal | ★★★★☆ |
+| Klanttevredenheid | 3/5 |
+| Responstijd & beschikbaarheid | 4/5 |
+| Transparantie | 3/5 |
+| Betrouwbaarheid | 3/5 |
+| Servicebreedte | 3/5 |
+| Communicatie | 3/5 |
+| Naamsbekendheid & schaal | 4/5 |
 
 **Wat klanten zeggen:**
 Op Google scoort RSN tussen de 4,3 en 4,7/5, al is het reviewvolume beperkt: het hoogst genoteerde profiel telt 77 beoordelingen. Op [Trustoo](https://www.trustoo.nl) staat het bedrijf op 8,9/10. Positieve reviews noemen de snelheid. Maar op Trustpilot en Klantenvertellen.nl duiken meerdere klachten op over naamsverwarring met look-alike sites: klanten wisten achteraf niet zeker bij welk bedrijf ze terecht waren gekomen. RSN is daar zelf niet verantwoordelijk voor, maar het is iets om rekening mee te houden als je online boekt.
@@ -129,13 +127,13 @@ Rions bestaat al sinds circa 1988 en heeft de afgelopen jaren flink uitgebreid, 
 
 | Criterium | Score |
 |---|---|
-| Klanttevredenheid | ★★★☆☆ |
-| Responstijd & beschikbaarheid | ★★★★☆ |
-| Transparantie | ★★★☆☆ |
-| Betrouwbaarheid | ★★☆☆☆ |
-| Servicebreedte | ★★★★☆ |
-| Communicatie | ★★★☆☆ |
-| Naamsbekendheid & schaal | ★★★☆☆ |
+| Klanttevredenheid | 3/5 |
+| Responstijd & beschikbaarheid | 4/5 |
+| Transparantie | 3/5 |
+| Betrouwbaarheid | 2/5 |
+| Servicebreedte | 4/5 |
+| Communicatie | 3/5 |
+| Naamsbekendheid & schaal | 3/5 |
 
 **Wat klanten zeggen:**
 Op Trustoo staat Rions op 8,7/10. Maar de klachten die uit het onderzoek naar voren komen zijn concreet en ernstig. Een klant betaalde €400 voor een rioolinspectie die niet werd afgemaakt: de camera bleek te groot voor de aansluiting, het toilet moest worden gedemonteerd, en Rions gaf achteraf aan geen tijd te hebben voor de herstelwerkzaamheden. In een ander geval weigerde de monteur aansprakelijkheid voor schade aan eigendommen, terwijl het bedrijf niet afdoende verzekerd bleek te zijn. Lange wachttijden worden door meerdere reviewers benoemd, ook bij spoedmeldingen.
@@ -157,13 +155,13 @@ Het dienstenpakket dekt vrijwel het volledige rioolbeheer: **rioolontstopping**,
 
 | Criterium | Score |
 |---|---|
-| Klanttevredenheid | ★★★★☆ |
-| Responstijd & beschikbaarheid | ★★★★☆ |
-| Transparantie | ★★★★★ |
-| Betrouwbaarheid | ★★★★★ |
-| Servicebreedte | ★★★★☆ |
-| Communicatie | ★★★★☆ |
-| Naamsbekendheid & schaal | ★★★☆☆ |
+| Klanttevredenheid | 4/5 |
+| Responstijd & beschikbaarheid | 4/5 |
+| Transparantie | 5/5 |
+| Betrouwbaarheid | 5/5 |
+| Servicebreedte | 4/5 |
+| Communicatie | 4/5 |
+| Naamsbekendheid & schaal | 3/5 |
 
 **Wat klanten zeggen:**
 Op Google staat RBNL op 4,9/5. Op Trustoo Amsterdam haalt het een 9,4/10, de hoogste klantbeoordelingsscore van alle onderzochte aanbieders op die platforms. Klanten noemen steeds weer dezelfde combinatie: snelheid en eerlijkheid. *"Quickly and efficiently handled"* en *"honest, fast, and truly knows his job"* zijn omschrijvingen die je meerdere keren tegenkomt.
@@ -182,13 +180,13 @@ Op Trustpilot is het beeld minder eenduidig, en het totale reviewvolume over all
 
 | Criterium | RRS | Riool.nl | RSN | Rions | RBNL |
 |---|:---:|:---:|:---:|:---:|:---:|
-| **Klanttevredenheid** | ★★★★☆ | ★★★☆☆ | ★★★☆☆ | ★★★☆☆ | ★★★★☆ |
-| **Responstijd & beschikbaarheid** | ★★★★☆ | ★★★★☆ | ★★★★☆ | ★★★★☆ | ★★★★☆ |
-| **Transparantie** | ★★★★☆ | ★★☆☆☆ | ★★★☆☆ | ★★★☆☆ | ★★★★★ |
-| **Betrouwbaarheid** | ★★★☆☆ | ★★☆☆☆ | ★★★☆☆ | ★★☆☆☆ | ★★★★★ |
-| **Servicebreedte** | ★★★★★ | ★★★★☆ | ★★★☆☆ | ★★★★☆ | ★★★★☆ |
-| **Communicatie** | ★★★☆☆ | ★★☆☆☆ | ★★★☆☆ | ★★★☆☆ | ★★★★☆ |
-| **Naamsbekendheid & schaal** | ★★★★★ | ★★★★☆ | ★★★★☆ | ★★★☆☆ | ★★★☆☆ |
+| **Klanttevredenheid** | 4/5 | 3/5 | 3/5 | 3/5 | 4/5 |
+| **Responstijd & beschikbaarheid** | 4/5 | 4/5 | 4/5 | 4/5 | 4/5 |
+| **Transparantie** | 4/5 | 2/5 | 3/5 | 3/5 | 5/5 |
+| **Betrouwbaarheid** | 3/5 | 2/5 | 3/5 | 2/5 | 5/5 |
+| **Servicebreedte** | 5/5 | 4/5 | 3/5 | 4/5 | 4/5 |
+| **Communicatie** | 3/5 | 2/5 | 3/5 | 3/5 | 4/5 |
+| **Naamsbekendheid & schaal** | 5/5 | 4/5 | 4/5 | 3/5 | 3/5 |
 | **Totaalscore** | **28/35** | **21/35** | **23/35** | **22/35** | **29/35** |
 
 RBNL wint met 29/35; RRS volgt op de voet met 28/35. De twee koplopers scoren op totaal verschillende fronten: RRS wint op servicebreedte en naamsbekendheid, RBNL leidt op transparantie, betrouwbaarheid en communicatie. Het verschil in betrouwbaarheid, mede door het consequente gebruik van eigen gecertificeerde monteurs zonder onderaannemers, geeft RBNL de doorslag. De andere drie aanbieders blijven op meerdere fronten achter.

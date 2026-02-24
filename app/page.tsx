@@ -2,6 +2,7 @@ import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 import type { Metadata } from "next";
+import Link from "next/link";
 import Article from "@/components/Article";
 import ProgressBar from "@/components/ProgressBar";
 
@@ -47,33 +48,6 @@ export default function HomePage() {
               lineHeight: 1,
             }}
           >
-            {/* Water drop icon */}
-            <svg
-              width="22"
-              height="26"
-              viewBox="0 0 22 26"
-              fill="none"
-              xmlns="http://www.w3.org/2000/svg"
-              aria-hidden="true"
-            >
-              {/* Pipe stub at top */}
-              <rect x="8.5" y="0" width="5" height="6" rx="2.5" fill="#1B4F8A" />
-              {/* Drop body */}
-              <path
-                d="M11 5 C8.5 9 2 15.5 2 19 C2 22.9 6.1 26 11 26 C15.9 26 20 22.9 20 19 C20 15.5 13.5 9 11 5Z"
-                fill="#1B4F8A"
-              />
-              {/* Inner highlight — suggests gloss/depth */}
-              <ellipse
-                cx="7.5"
-                cy="17"
-                rx="1.3"
-                ry="2.2"
-                fill="white"
-                opacity="0.28"
-                transform="rotate(-18 7.5 17)"
-              />
-            </svg>
             <span>
               <span style={{ fontWeight: 400 }}>riool</span>
               <span style={{ fontWeight: 700 }}>platform</span>
@@ -113,7 +87,7 @@ export default function HomePage() {
 
           <p className="text-lg leading-relaxed" style={{ color: "#6B7280" }}>
             Vijf aanbieders getest op klanttevredenheid, prijs, reactietijd en
-            garantie — zodat jij bij een verstopping meteen weet wie je moet bellen.
+            garantie, zodat jij bij een verstopping meteen weet wie je moet bellen.
           </p>
 
           {/* V3: sticky sidebar / CTA block goes here — HTML structure is ready */}
@@ -130,9 +104,9 @@ export default function HomePage() {
             opgesteld op basis van publiek beschikbare reviews, gepubliceerde tarieven en
             website-analyse. Bedrijfsscores kunnen zijn gewijzigd. Externe links openen
             in een nieuw tabblad.{" "}
-            <a href="/over" style={{ color: "#1B4F8A" }}>
+            <Link href="/over" style={{ color: "#1B4F8A" }}>
               Meer over ons onderzoek →
-            </a>
+            </Link>
           </p>
         </footer>
       </main>
