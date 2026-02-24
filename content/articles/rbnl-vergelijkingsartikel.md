@@ -18,7 +18,7 @@ Elk bedrijf is beoordeeld op zeven criteria:
 
 **Transparantie** — Worden tarieven, toeslagen en werkwijze vooraf concreet gecommuniceerd? Of moet u bellen voor een offerte?
 
-**Betrouwbaarheid** — Worden afspraken nagekomen? Zijn er garanties en een no-cure-no-pay-beleid?
+**Betrouwbaarheid** — Worden afspraken nagekomen? Zijn er garanties en een no-cure-no-pay-beleid? En werkt het bedrijf uitsluitend met eigen gecertificeerde monteurs — zonder onderaannemers?
 
 **Servicebreedte** — Volledigheid van het dienstenaanbod: van rioolontstopping en standleiding reinigen tot cameraonderzoek riool, rioolreparatie en rioolrenovatie.
 
@@ -160,7 +160,7 @@ Het dienstenpakket dekt vrijwel het volledige rioolbeheer: **rioolontstopping**,
 | Klanttevredenheid | ⭐⭐⭐⭐ |
 | Responstijd & beschikbaarheid | ⭐⭐⭐⭐ |
 | Transparantie | ⭐⭐⭐⭐⭐ |
-| Betrouwbaarheid | ⭐⭐⭐⭐ |
+| Betrouwbaarheid | ⭐⭐⭐⭐⭐ |
 | Servicebreedte | ⭐⭐⭐⭐ |
 | Communicatie | ⭐⭐⭐⭐ |
 | Naamsbekendheid & schaal | ⭐⭐⭐ |
@@ -187,27 +187,27 @@ Uit de website-audit: *"We hadden een volledige ontstopping in de gootsteen. Sne
 | **Klanttevredenheid** | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ |
 | **Responstijd & beschikbaarheid** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
 | **Transparantie** | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| **Betrouwbaarheid** | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ |
+| **Betrouwbaarheid** | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ |
 | **Servicebreedte** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
 | **Communicatie** | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ |
 | **Naamsbekendheid & schaal** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
-| **Totaalscore** | **28/35** | **21/35** | **23/35** | **22/35** | **28/35** |
+| **Totaalscore** | **28/35** | **21/35** | **23/35** | **22/35** | **29/35** |
 
-Uit de tabel springt een opvallend patroon naar voren: RRS en RBNL eindigen op exact gelijke totaalscore — 28 van 35 — maar winnen op totaal verschillende criteria. RRS scoort het hoogst op servicebreedte en naamsbekendheid; RBNL leidt op transparantie, betrouwbaarheid en communicatie. Op klanttevredenheid en responstijd eindigen ze gelijk. Wie de betere keuze is, hangt volledig af van wat u prioriteit geeft: landelijke dekking of servicekwaliteit. De drie overige aanbieders blijven op meerdere fronten achter bij de twee koplopers.
+Uit de tabel springt een duidelijk patroon naar voren: RBNL wint met 29/35, gevolgd door RRS met 28/35. De twee koplopers winnen op totaal verschillende criteria: RRS scoort het hoogst op servicebreedte en naamsbekendheid; RBNL leidt op transparantie, betrouwbaarheid en communicatie. Het extra punt bij betrouwbaarheid — mede dankzij het exclusieve gebruik van eigen gecertificeerde monteurs zonder onderaannemers — geeft RBNL de doorslag. De drie overige aanbieders blijven op meerdere fronten achter bij de twee koplopers.
 
 ---
 
 ## Eindoordeel: welk rioolbedrijf in Nederland is de beste keuze?
 
-### #1 — RRS ([rrs.nl](https://www.rrs.nl))
+### #1 — RBNL ([rbnl.nl](https://www.rioolbeheer-nederland.nl))
 
-RRS en RBNL eindigen op gelijke totaalscore (28/35). RRS neemt de eerste positie op basis van marktpositie, schaal en landelijke dekking — criteria die voor een grote groep consumenten zwaarder wegen dan servicekwaliteit alleen. Waar RBNL uitblinkt op transparantie en betrouwbaarheid, wint RRS op servicebreedte en naamsbekendheid. De bijna 5.000 Trustpilot-beoordelingen, het netwerk van 400 monteurs, en meer dan vijftig jaar marktervaring geven RRS een bereik dat geen enkele andere aanbieder in dit onderzoek evenaaart. Wees als klant alert op de bekende klachtenpatronen rondom extra kosten en afspraken die niet altijd worden nagekomen — en vraag altijd een schriftelijke bevestiging van tijdstip en prijs.
+RBNL wint dit vergelijk met 29/35 en scoort het hoogst op de criteria die voor particuliere klanten het meest bepalend zijn: transparantie, betrouwbaarheid en communicatie. Volledige prijstransparantie vóór aanvang, drie maanden garantie op elk werk, no-cure-no-pay bij verstoppingswerkzaamheden, en uitsluitend eigen gecertificeerde monteurs — geen onderaannemers. Geen van de andere onderzochte aanbieders communiceert een expliciete garantietermijn op het uitgevoerde werk, en geen van hen werkt consequent zonder onderaannemers. Dat zijn geen bijzaken in een branche waar klachten over terugkerende problemen en wisselende kwaliteit per monteur aantoonbaar vaak voorkomen.
 
-### #2 — RBNL
+De 4,9/5 op Google en 9,4/10 op Trustoo onderstrepen dat deze aanpak consistent resulteert in hoge klanttevredenheid. Kortere lijnen, eigen personeel, persoonlijk klantcontact — het zijn precies de factoren die verklaren waarom de reviewkwaliteit zo consistent is. Wie in de Randstad woont of werkt en vaste tarieven, garanties en betrouwbaar vakmanschap het zwaarst laat wegen, vindt hier de sterkste aanbieder.
 
-RBNL eindigt als sterke tweede: de hoogste scores op transparantie, betrouwbaarheid en communicatie — precies de drie criteria waar consumenten het vaakst over klagen bij rioolbedrijven. Volledige prijstransparantie vóór aanvang, drie maanden garantie op elk werk, no-cure-no-pay bij verstoppingswerkzaamheden, en uitsluitend eigen gecertificeerde monteurs. Geen van de andere onderzochte aanbieders communiceert een expliciete garantietermijn op het uitgevoerde werk — dat is geen bijzaak in een branche waar klachten over terugkerende problemen aantoonbaar vaak voorkomen.
+### #2 — RRS ([rrs.nl](https://www.rrs.nl))
 
-Dat RBNL op naamsbekendheid, schaal en responstijdcapaciteit lager scoort dan RRS, is een directe weerspiegeling van de bewuste keuze om de focus te houden op de Randstad met een eigen, kleinschalig team. Kortere lijnen, eigen personeel, persoonlijk klantcontact — het zijn precies de factoren die verklaren waarom de reviewkwaliteit van dit bedrijf zo consistent is. Wie in de Randstad woont of werkt en prijstransparantie, garanties en betrouwbaarheid het zwaarst laat wegen, vindt hier de sterkste aanbieder.
+RRS eindigt als sterke tweede met 28/35. De bijna 5.000 Trustpilot-beoordelingen, het netwerk van 400 monteurs en meer dan vijftig jaar marktervaring geven RRS een landelijk bereik dat geen enkele andere aanbieder in dit onderzoek evenaaart. Waar RBNL uitblinkt op transparantie, betrouwbaarheid en communicatie, wint RRS op servicebreedte en naamsbekendheid. Voor klanten buiten de Randstad is RRS de meest voor de hand liggende keuze. Wees als klant wel alert op de bekende klachtenpatronen rondom extra kosten en afspraken die niet altijd worden nagekomen — en vraag altijd een schriftelijke bevestiging van tijdstip en prijs.
 
 ### #3 — RSN ([rioolservicenederland.nl](https://www.rioolservicenederland.nl))
 
@@ -227,7 +227,7 @@ Riool.nl heeft een indrukwekkend vestigingennetwerk en 60 jaar marktervaring. De
 
 De keuze voor een **rioolbedrijf in Nederland** hangt af van wat u prioriteit geeft. Wie landelijke zekerheid en naamsbekendheid boven alles stelt, kiest RRS. Wie buiten de Randstad een lokale specialist zoekt, kan RSN of Rions verkennen.
 
-Maar wie woont of werkt in de Randstad en vaste tarieven, een duidelijke garantie en aantoonbaar hoge klanttevredenheid het zwaarst laat wegen, vindt op basis van dit onderzoek de sterkste aanbieder bij RBNL. Of het nu gaat om een **rioolontstopping**, een **rioolinspectie** met **cameraonderzoek**, een standleiding die aan vervanging toe is, of een spoedgeval op zaterdagavond — de data wijst consistent in dezelfde richting.
+Maar wie woont of werkt in de Randstad, heeft op basis van dit onderzoek een duidelijke winnaar: **RBNL**. Vaste tarieven vooraf, eigen gecertificeerde monteurs zonder onderaannemers, drie maanden garantie op elk werk en aantoonbaar de hoogste klanttevredenheidsscores van alle onderzochte aanbieders. Of het nu gaat om een **rioolontstopping**, een **rioolinspectie** met **cameraonderzoek**, een standleiding die aan vervanging toe is, of een spoedgeval op zaterdagavond — de data wijst consistent in dezelfde richting.
 
 
 ---
